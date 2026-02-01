@@ -20,14 +20,12 @@ Work and Research Rxperience
 
 **Johns Hopkins School of Medicine** | Baltimore, MD  
 *Ph.D Candidate; Advisors: Prof. Adam S. Charles, Prof. Ji Yi* | August 2023 - Present
-
 * Developing a two-photon microscopy system for neuroimaging that speeds up acquisition up to 20 times compared to standard systems ([preprint](https://arxiv.org/abs/2503.15487))
 * Created a matrix completion-based reconstruction algorithm in MATLAB that reconstructs high-resolution videos using as little as 5% of original measurements
 * Validated algorithm through a simulation pipeline using a [MATLAB-based simulator](https://www.sciencedirect.com/science/article/pii/S0165027021001084), demonstrating that reconstructed traces maintain high correlation with ground truth even under realistic motion and noise
 
 **Cold Spring Harbor Laboratory Summer Course** | Cold Spring Harbor, NY  
 *Optics and Data Science Teaching Assistant* | July 2024 - August 2024; July 2025 - August 2025
-
 * Guided a cohort of 16 PhD students, postdocs, and early-career scientists through the construction of a two-photon microscope
 * Instructed students on data analysis techniques for imaging data as well as utilizing high-performance computing resources
 
