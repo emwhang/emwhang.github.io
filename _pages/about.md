@@ -11,4 +11,4 @@ My name is Esther Whang, I am a 3rd year Ph.D. Candidate in Biomedical Engineeri
 
 Before my Ph.D., I studied at the Cooper Union, where I obtained a Bachelors and Masters in Electrical Engineering. While at Cooper, I worked on e-textile devices for motion capture with Dr. Mili Shah and Dr. Jennifer Weiser. As a part of the Berkeley SUPERB REU program, I worked as a summer Undergraduate researcher at Berkeley with Dr. [Laura Waller](https://www.laurawaller.com/) on physics-informed deep learning for image deblurring. After my graduatoin, I also interned at Formlabs in developing a lwo-cost optical system for manufacturing quality assessment. 
 
-In my free time, I enjoy music and live performances. I particularly enjoy spending my time volunteering at the [Baltimore Rock Opera Society](https://www.baltimorerockopera.org/), using my EE background to make cool props and effects for their theater productions.
+In my free time, I enjoy music and live performances. I volunteer at the [Baltimore Rock Opera Society](https://www.baltimorerockopera.org/), using my EE background to make cool props and effects for their theater productions.
