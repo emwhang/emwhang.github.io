@@ -1,6 +1,6 @@
 ---
 title: "Ring deconvolution microscopy: exploiting symmetry for efficient spatially varying aberration correction"
-collection: Scholarly Works
+collection: works
 category: manuscripts
 permalink: /works/2026-01-31-ring_deconv'
 date: 2026-01-313
