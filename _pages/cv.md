@@ -62,24 +62,17 @@ Activities
 ======
 **Baltimore Rock Opera Society (BROS)** | Baltimore, MD  
 *LIT Team Senior Volunteer* | January 2024 - Present
-
 * Design and build electronic components for theatrical props and costumes in volunteer theater productions. Past projects include a remote controlled pair of giant eyes for an ancient Aztec god, the Sims Game floating crystal, and an emotion-transfer helmet to build a computer that loves. 
 
 **The Society of Women Engineers (SWE) at Cooper Union** | New York, NY  
 *President* | May 2021 - May 2023
-
 * Implemented recruitment initiatives to achieve 50% female student enrollment for the class of 2026
   
-Skills
+Tools
 ======
-* Python
-  * PyTorch
-  * Tensorflow
-  * OpenCV
-  * NI-DAQmx
+* Python (PyTorch, Tensorflow, OpenCV, NI-DAQmx)
 * MATLAB
 * Arduino
-* R
 * LabVIEW
 * ScanImage
 * LaTeX
