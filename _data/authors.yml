@@ -2,17 +2,8 @@
 
 Name Name:
   name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
+  email       : "ewhang2@jh.edu"
   bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+  avatar      : "Esther-Whang-headshot.jpg"
+  googlescholar: "https://scholar.google.com/citations?user=NvMA19MAAAAJ&hl=en&oi=ao"
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
