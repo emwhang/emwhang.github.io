@@ -3,7 +3,7 @@ title: "A Semi-Supervised Learning Approach to Classifying Pathological Images o
 collection: works
 category: other
 permalink: /works/2023-05-01-mastersthesis
-excerpt: 'my Master's thesis at the Cooper Union, as a part of the 4-year Bachelors and Masters dual degree program.'
+excerpt: "my Master's thesis at the Cooper Union, as a part of the 4-year Bachelors and Masters dual degree program."
 date: 2023-05-01
 # venue: 'Journal 1'
 # slidesurl: 'https://academicpages.github.io/files/slides2.pdf'

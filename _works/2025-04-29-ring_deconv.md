@@ -3,7 +3,7 @@ title: "Ring deconvolution microscopy: exploiting symmetry for efficient spatial
 collection: works
 category: manuscripts
 permalink: /works/2026-01-31-ring_deconv'
-date: 2026-01-313
+date: 2025-04-29
 venue: 'Nature Methods'
 # slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://www.nature.com/articles/s41592-025-02684-5'

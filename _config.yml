@@ -91,7 +91,7 @@ publication_category:
   conferences:
     title: 'Conference Papers'
 
-# Publication Category - The following the list of works categories and their headings
+# Scholarly Works Category - The following the list of works categories and their headings
 works_category:
   books:
     title: 'Books'
@@ -282,6 +282,15 @@ defaults:
   - scope:
       path: ""
       type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _works
+  - scope:
+      path: ""
+      type: works
     values:
       layout: single
       author_profile: true
