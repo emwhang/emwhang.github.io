@@ -26,20 +26,18 @@ Work and Research Rxperience
 * Validated algorithm through a simulation pipeline using a [MATLAB-based simulator](https://www.sciencedirect.com/science/article/pii/S0165027021001084), demonstrating that reconstructed traces maintain high correlation with ground truth even under realistic motion and noise
 
 **Cold Spring Harbor Laboratory Summer Course** | Cold Spring Harbor, NY  
-*Data Science Teaching Assistant* | July 2024 - August 2024; July 2025 - August 2025
+*Optics and Data Science Teaching Assistant* | July 2024 - August 2024; July 2025 - August 2025
 
 * Guided a cohort of 16 PhD students, postdocs, and early-career scientists through the construction of a two-photon microscope
-* Instructed students on data analysis techniques for imaging data as well as utilizing computational resources
+* Instructed students on data analysis techniques for imaging data as well as utilizing high-performance computing resources
 
 **Formlabs** | Somerville, MA  
 *Optical Engineering Intern* | June 2023 - August 2023
-
 * Designed and deployed a manufacturing quality assessment pipeline for a critical transparent printing component in the [Form4](https://formlabs.com/3d-printers/form-4/) printer
 * Built a low-cost, bench-top laser-cut optical setup to capture information about geometric characteristics from transparent material, reducing testing costs compared to commercial alternatives
 
 **University of California, Berkeley (WallerLab)** | Berkeley, CA  
 *Computational Imaging Undergraduate Researcher; Advisor: Prof. Laura Waller* | June 2022 - August 2022
-
 * Developed a physics-informed deep learning approach for deblurring images with spatially-varying blur
 * Utilized PyTorch to build a deep learning model that deblurs images with radially-symmetric aberrations (published in [Nature Methods](https://doi.org/10.1038/s41592-025-02684-5))
 

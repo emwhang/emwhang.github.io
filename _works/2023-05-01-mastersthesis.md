@@ -1,8 +1,8 @@
 ---
 title: "A Semi-Supervised Learning Approach to Classifying Pathological Images of Heart Tissue for the Presence of Intercellular Junctions"
-collection: publications
-category: academic work
-permalink: /publication/2023-05-01-mastersthesis
+collection: Scholarly Works
+category: manuscripts
+permalink: /works/2023-05-01-mastersthesis
 excerpt: 'my Master's thesis at the Cooper Union, as a part of the 4-year Bachelors and Masters dual degree program.'
 date: 2023-05-01
 # venue: 'Journal 1'
