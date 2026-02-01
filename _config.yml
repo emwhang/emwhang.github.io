@@ -96,7 +96,7 @@ works_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Papers'    
   conferences:
     title: 'Conference Papers'
   other:
