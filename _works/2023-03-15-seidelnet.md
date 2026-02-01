@@ -1,6 +1,6 @@
 ---
 title: "SeidelNet: an aberration-informed deep learning model for spatially varying deblurring"
-collection: Scholarly Works
+collection: works
 category: conferences
 permalink: /works/2024-02-17-seidelnet
 excerpt: 'Conference presentation on my contributions on the Ring Deconvolution paper'
