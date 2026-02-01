@@ -23,7 +23,7 @@ repository               : "emwhang/emwhang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Esther-Whang-headshot-small.png"
+  avatar           : "Esther-Whang-headshot-small.jpg"
   name             : "Esther Whang"
   pronouns         : # example: "she/her"  
   bio              : "BME Ph.D. Student at Johns Hopkins"
