@@ -58,8 +58,19 @@ Teaching
 * Teaching Assistant for Imaging Structure & Function in the Nervous System, Cold Spring Harbor Laboratory, July 2024 - August 2024 and July 2025 - August 2025
 * Teaching Assistant for Modern Optical Microscopy, Johns Hopkins University, August 2024 - December 2024
   
-Activities
+Leadership and Service
 ======
+
+**Cooper Union Graduate Application Assistance Program (CUGAAP)** | New York, NY 
+*Founder, Lead Organizer* | May 2024-Present
+* Established an alumni-led graduate school application mentorship program for undergraduates at the Cooper Union
+
+
+**Women of Whiting (WoW) at Johns Hopkins University ** | Baltimore, MD
+*Executive Board Member* | May 2024-Present
+* Organize events to support female and non-binary graduate students at the Whiting School of Engineering
+
+
 **Baltimore Rock Opera Society (BROS)** | Baltimore, MD  
 *LIT Team Senior Volunteer* | January 2024 - Present
 * Design and build electronic components for theatrical props and costumes in volunteer theater productions. Past projects include a remote controlled pair of giant eyes for an ancient Aztec god, the Sims Game floating crystal, and an emotion-transfer helmet to build a computer that loves. 
